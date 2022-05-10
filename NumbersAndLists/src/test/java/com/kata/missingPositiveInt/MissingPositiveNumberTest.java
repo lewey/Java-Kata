@@ -6,6 +6,12 @@ import java.util.Arrays;
 import java.util.List;
 import static org.junit.Assert.assertEquals;
 
+/*
+    Find the next positive number.
+    The number can occur after the list or within.
+    negative numbers are to be ignored
+ */
+
 public class MissingPositiveNumberTest {
 
     @Test
