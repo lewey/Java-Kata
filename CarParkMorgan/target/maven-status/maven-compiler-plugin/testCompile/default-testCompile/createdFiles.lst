@@ -1,0 +1,4 @@
+com/morgan/carpark/repository/ParkingSpacesTest.class
+com/morgan/carpark/services/BarrierTest.class
+com/morgan/carpark/services/ParkingDurationRecorderTest.class
+com/morgan/carpark/CarParkTest.class

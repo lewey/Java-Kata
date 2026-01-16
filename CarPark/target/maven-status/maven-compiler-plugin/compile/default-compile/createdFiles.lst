@@ -1,0 +1,4 @@
+carpark/models/Vehicle.class
+carpark/models/ParkingStatus.class
+carpark/models/ParkingSpace.class
+carpark/CarPark.class
